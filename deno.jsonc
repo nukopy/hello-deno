@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts",
+    "pokemon": "deno run --allow-net pokemon.ts",
+    "compile:pokemon": "deno compile --allow-net --output pokemon pokemon.ts"
+  }
+}
