@@ -94,7 +94,7 @@ deno run --allow-write main.ts
 deno run --allow-net main.ts
 ```
 
-> **Warning
+> **Warning**
 > 引数の渡し方に注意。渡し方によって Deno ランタイムのフラグとして consume されない場合がある。詳しくは [2.4 Command Line Interface - Script arguments](https://deno.land/manual@v1.35.0/getting_started/command_line_interface#script-arguments) を参照。
 
 #### Run remote file
