@@ -1,3 +1,0 @@
-2023-07-25 02:32:19 Error: i am from fileLogger Error: test
-    at file:///Users/yskokwk-m1max/Projects/Playground/hello-deno/logger.ts:15:38
-    at eventLoopTick (ext:core/01_core.js:183:11)
